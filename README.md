@@ -12,7 +12,7 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <a href="https://github.com/Thivasaki">
-  <img width="48%" height="185em" src="https://github-readme-stats.vercel.app/api?username=Thivasaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thivasaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thivasaki&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
