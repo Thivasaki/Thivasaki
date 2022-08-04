@@ -9,7 +9,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</div>
 <div style="display: inline_block" align="center"><br>
   <a href="https://github.com/Thivasaki">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thivasaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -18,15 +17,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+<div id='lojc' align="center">
+
+| Tools  | Languages | Frameworks  | Technologies |  
+|---|---|---|---|
+|<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="" alt="J" width="35" height="35"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;</div></div>| 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
