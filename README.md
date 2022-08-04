@@ -1,7 +1,7 @@
 ### Hi there, I am Thiago Seichy Ivasaki 👋
 
 - 🌱 I’m currently learning React
-- 🤔 I’m looking for help with getting better with unity and react
+- 🤔 I’m looking forward to work as a front-end web developer
 - 💬 Ask me about whatever you wish for
 - 📫 How to reach me: On my social midia, expecialy Linkedin
 - 😄 Pronouns:  He/Him
