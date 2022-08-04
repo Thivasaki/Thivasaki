@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi there, I am Thiago Seichy Ivasaki 👋
 
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with getting better with unity and react
+- 💬 Ask me about whatever you wish for
+- 📫 How to reach me: On my social midia, expecialy Linkedin
+- 😄 Pronouns:  He/Him
+- ⚡ Fun fact: I love KFC
 
 </div>
 <div style="display: inline_block" align="center"><br>
@@ -28,9 +26,9 @@
 
 <div> 
 <div style="display: inline_block" align="center"><br>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/thiagoseichy/" target="_blank" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thiagoivasaki@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-ivasaki-012b5422a/" target="_blank" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Thivasaki/Thivasaki/blob/output/github-contribution-grid-snake.svg)
  
