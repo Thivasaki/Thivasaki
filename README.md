@@ -15,7 +15,6 @@
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thivasaki&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div id='lojc' align="center">
 
@@ -23,7 +22,6 @@
 |---|---|---|---|
 |<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="" alt="J" width="30" height="30"/></div>|<div id='lojc' align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="" alt="J" width="35" height="35"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;&nbsp;</div></div>| 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div> 
 <div style="display: inline_block" align="center"><br>
