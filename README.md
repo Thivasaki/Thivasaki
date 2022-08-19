@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 🤔 I’m looking forward to work as a front-end web developer
 - 💬 Ask me about whatever you wish for
-- 📫 How to reach me: On my social midia, expecialy Linkedin
+- 📫 How to reach me: On my social midia, especially Linkedin
 - 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I love KFC
 
