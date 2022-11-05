@@ -1,6 +1,6 @@
 # Olá sou Thiago vulgo Ivasaki
 
-Estou estudando programação Full Stack na Trybe, crio jogos nas horas vagas e procuro me profissionalizar em Front-end.
+Estou estudando programação Full Stack na Trybe, estudo sobre criação de jogos nas horas vagas e procuro me profissionalizar em Front-end.
 
 ## Tenho formação nessas tecnologias:
 - CSS, Javascript, HTML
