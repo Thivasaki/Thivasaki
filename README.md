@@ -10,6 +10,6 @@ Estou estudando programação Full Stack na Trybe, estudo sobre criação de jog
 
 ## Links e contato:
 - Linkedin: https://www.linkedin.com/in/thiago-ivasaki/
-- Portifólio: 
+- Portifólio: work in progress 
 - Email: thiagoivasaki@gmail.com
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
