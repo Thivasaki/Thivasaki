@@ -12,7 +12,7 @@ Sou um programador fullstack que acredita no potencial criativo que a programaç
 
 <h2 align="left">Redes Sociais:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/thiago ivasaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago ivasaki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiago-ivasaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago ivasaki" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Tecnologias:</h2>
