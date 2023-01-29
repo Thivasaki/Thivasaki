@@ -1,5 +1,5 @@
 <h1>Oi! 👋 Tudo bem?</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=thivasaki&label=Profile%20views&color=0e75b6&style=flat" alt="thivasaki" /> </p>
-Sou um programador fullstack que acredita no potencial criativo que a programação consegue proporcionar a um desenvolvedor e quero usa-lá como minha forma de expressar-me. Atualmente, busco aplicar tudo que sei num ambiente de trabalho e me especializar em tecnologias que me deem mais liberdade de criação como game engines.
+Sou um programador front-end que acredita no potencial criativo que a programação consegue proporcionar a um desenvolvedor e quero usa-lá como minha forma de expressar-me. Atualmente, busco aplicar tudo que sei num ambiente de trabalho e me especializar em tecnologias que me deem mais liberdade de criação como game engines.
 
 <h2>Situação Atual:</h2>
 
