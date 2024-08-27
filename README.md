@@ -3,11 +3,11 @@ Sou um programador front-end que acredita no potencial criativo que a programaç
 
 <h2>Situação Atual:</h2>
 
-- Estou estudando [**Trybe**](https://www.betrybe.com/)
+- Sou formado em programação Full Stack na [**Trybe**](https://www.betrybe.com/)
 
 - Meu Portifólio [workInProgress](workInProgress)
 
-- Meu email **thiagoivasaki@gmail.com**
+- Meu email **thiagoivasaki.workspace@gmail.com**
 
 
 <h2 align="left">Redes Sociais:</h2>
